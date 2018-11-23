@@ -1,0 +1,70 @@
+﻿section.hero.is-bold{
+    background-image: url(image/watpho.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+
+.font{
+    font-family: 'Yeseva One', cursive;
+}
+.fontT{
+    font-family: 'Kanit', sans-serif;
+}
+.footer{
+    height: 200px;
+    background-color: black;
+}
+.footer2{
+    height: 250px;
+    background-color: #F1C40F;
+}
+.footer3{
+    height: 400px;
+    background-size: cover;
+    background-position: center center; 
+    background-image: url(image/Bangkok-tailandia-1050x599.jpg);
+}
+
+
+section.hero.is-medium.is-bold.herob1{
+    background-image: url(image/banner_history.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+
+.img2{
+width: 210px;
+}
+
+
+section.hero.is-bold.herob2{
+    background-image: url(image/watlampangHero.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+.img1{
+    width: 250px;
+
+}
+
+
+section.hero.is-bold.herob3{
+    background-image: url(image/วัดถ้ำเสือ4.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+.img1{
+    width: 250px;
+
+}
+
+
+section.hero.is-bold.herob4{
+    background-image: url(image/โสธร.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+.img1{
+    width: 250px;
+
+}
